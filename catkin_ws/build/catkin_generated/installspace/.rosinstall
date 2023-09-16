@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/kinesis/Github/StudyingROS/catkin_ws/install/setup.sh
